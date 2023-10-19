@@ -1,16 +1,22 @@
-### Hi there 👋
+<pre>
+$ cat ~/imxela/README.md
 
-<!--
-**imxela/imxela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ／l、             
+（ﾟ､ ｡ ７         
+  l  ~ヽ       
+  じしf_,)ノ
+  
+im xela - i like cats (and code)
 
-Here are some ideas to get you started:
+links to stuff are on my <a href="https://xela.me">website</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+some of my projects:
+
+  > <a href="https://github.com/imxela/xterminate">xterminate</a> ............ improved alt+f4 and xkill equivalent for windows
+  > <a href="https://github.com/imxela/apb-config-manager">apb-config-manager</a> .... config profile manager for apb reloaded
+  > <a href="https://github.com/imxela/dotfiles">dotfiles</a> .............. my linux rice <i>(i use <s>arch</s> void btw)</i>
+  
+you can contact me at: hi (at) xela (dot) me
+
+thank you for visiting! ^.^
+</pre>
