@@ -1,5 +1,5 @@
 <pre>
-$ cat ~/imxela/README.md
+$ cat ~/README.md
 
   ／l、             
 （ﾟ､ ｡ ７         
