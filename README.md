@@ -8,6 +8,8 @@ $ cat ~/README.md
   
 im biixie - i like cats (and code)
 
+i primarily use <a href="https://codeberg.org/biixie">codeberg</a>
+
 links to stuff are on my <a href="https://biixie.com">website</a>
 
 some of my projects:
