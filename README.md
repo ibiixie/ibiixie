@@ -19,3 +19,5 @@ some of my projects:
 
 thank you for visiting! ^.^
 </pre>
+
+<a rel="me" href="https://mastodon.social/@biixie"></a>
