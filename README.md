@@ -14,7 +14,7 @@ links to stuff are on my <a href="https://biixie.com">website</a>
 
 some of my projects:
 
-  > <a href="https://codeberg.org/biixie/apb.biixie.com">apb.biixie.com</a> ... color conversion tool <a href="https://store.steampowered.com/app/113400/APB_Reloaded/">apb: reloaded</a>
+  > <a href="https://codeberg.org/biixie/apb.biixie.com">apb.biixie.com</a> ... color conversion tool for <a href="https://store.steampowered.com/app/113400/APB_Reloaded/">apb: reloaded</a>
   > <a href="https://github.com/ibiixie/xterminate">xterminate</a> ....... improved alt+f4 and xkill equivalent for windows
   > <a href="https://github.com/ibiixie/blctl">blctl</a> ............ backlight control daemon for linux
   > <a href="https://github.com/ibiixie/dotfiles">dotfiles</a> ......... my linux rice <i>(i use <s>arch</s> nixOS btw)</i>
